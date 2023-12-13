@@ -18,10 +18,10 @@ I am currently learning and working on Flutter for mobile app development.
 
 ## Connect with Me
 
-- [#GitHub#](https://github.com/ashiq-kodali)
-- [#LinkedIn#](https://www.linkedin.com/in/ashiq-kodali/)
-- [#Twitter#](https://twitter.com/ashiq_kodali)
-- #Email#  itzmeask@gmail.com
+- [GitHub](https://github.com/ashiq-kodali)
+- [LinkedIn](https://www.linkedin.com/in/ashiq-kodali/)
+- [Twitter](https://twitter.com/ashiq_kodali)
+- Email  itzmeask@gmail.com
 
 ## Stats
 
