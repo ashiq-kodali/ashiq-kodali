@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @ashiq-kodali
-- 👀 I’m interested in Coding..
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
-- 📫 How to reach me
-- itzmeask@gmail.com
-  
+# Ashiq Kodali
 
-<!---
-ashiq-kodali/ashiq-kodali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+Hello! I'm Ashiq Kodali, an AI Developer based in Malappuram, Kerala, India. Currently, I am working on two projects at Ebsor Infosystems Pvt Ltd. I specialize in Python and I'm actively learning and working on Flutter for mobile app development.
+
+## Skills
+
+- **Programming Languages:** Python, Dart
+- **Frameworks:** Flutter
+- **Tools:** Android Studio
+
+## Projects
+
+## Learning
+
+I am currently learning and working on Flutter for mobile app development.
+
+## Connect with Me
+
+- GitHub: [https://github.com/ashiq-kodali]
+- LinkedIn: [https://www.linkedin.com/in/ashiq-kodali/]
+- Twitter: [https://twitter.com/ashiq_kodali]
+- Email: [itzmeaskgmai.com]
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiq-kodali&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+## Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-kodali&layout=compact&theme=radical)
+
+
+
+
+
+
