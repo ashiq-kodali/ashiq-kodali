@@ -1,8 +1,8 @@
-# Ashiq Kodali
+# ASHIQ KODALI
 
 ## About Me
 
-Hello! I'm Ashiq Kodali, an AI Developer based in Malappuram, Kerala, India. Currently, I am working on two projects at Ebsor Infosystems Pvt Ltd. I specialize in Python and I'm actively learning and working on Flutter for mobile app development.
+Hello! I'm an AI Developer based in Malappuram, Kerala, India. Currently, I am working on two projects at Ebsor Infosystems Pvt Ltd. I specialize in Python and I'm actively learning and working on Flutter for mobile app development.
 
 ## Skills
 
