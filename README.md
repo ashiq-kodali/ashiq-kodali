@@ -14,7 +14,7 @@ Hello! I'm an AI Developer based in Malappuram, Kerala, India. Currently, I am w
 
 ## Learning
 
-I am currently learning and working on Flutter for mobile app development.
+I am currently learning and working on Flutter for multi-platform applications development.
 
 ## Connect with Me
 
