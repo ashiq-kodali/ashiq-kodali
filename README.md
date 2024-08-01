@@ -2,14 +2,16 @@
 
 ## About Me
 
-Hello! I'm  Flutter Developer based in Malappuram, Kerala, India. Currently, I am working at Ebsor Infosystems Pvt Ltd. I specialize in Python and I'm actively learning and working on Flutter for mobile app development.
+Hello! I'm passionate and experienced Flutter Developer with a strong background in creating dynamic and efficient mobile applications. Currently serving as a Flutter Developer at Ebsor Infosystems, I specialize in using Dart, Firebase, and state management tools such as Provider, BLoC, and Riverpod to deliver high-quality app solutions.
 
 ## Skills
 
-- **Programming Languages:** Python, Dart
-- **Frameworks:** Flutter
-- **Tools:** Android Studio
-
+- **Programming Languages:** Python, Dart , C# , SQL
+- **Frameworks:** Flutter , FastAPI, ASP.Net , .Net Core 
+- **Tools:** Android Studio , XCode , Visual Studio
+- **Top Skills:** State Management - BloC , Riverpod , Provider
+                  Data Base - SQlite , Hive, Preference
+  
 ## Projects
 
 ## Learning
