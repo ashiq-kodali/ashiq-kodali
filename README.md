@@ -9,8 +9,8 @@ Hello! I'm passionate and experienced Flutter Developer with a strong background
 - **Programming Languages:** Python, Dart , C# , SQL
 - **Frameworks:** Flutter , FastAPI, ASP.Net , .Net Core 
 - **Tools:** Android Studio , XCode , Visual Studio
-- **Top Skills:** State Management - BloC , Riverpod , Provider
-                  Data Base - SQlite , Hive, Preference
+- **Top Skills:** || State Management - BloC , Riverpod , Provider || 
+                  Data Base - SQlite , Hive, Preference ||
   
 ## Projects
 
