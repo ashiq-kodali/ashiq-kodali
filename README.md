@@ -1,41 +1,66 @@
+# Ashiq Kodali
 
-Full-Stack .NET & Flutter Developer | ERP & POS Systems | ASP.NET Core MVC · SQL Server · Mobile.
+**Software Engineer** · Full-Stack .NET & Flutter · Enterprise Systems (ERP / POS) · Multi-Language Native SDKs
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/disanohub) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ashiqkodali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashiq_kodali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashiq-kodali/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@itzmeask) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/12849605/ashiq-kodali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ashiq_kodali) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-## Skills
-
-- **Programming Languages:** Python, Dart , C# , SQL
-- **Frameworks:** Flutter , FastAPI, ASP.Net , .Net Core 
-- **Tools:** Android Studio , XCode , Visual Studio
-- **Top Skills:** Architecture - Clean , MVC <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Back End - FireBase, .Net, SupaBase <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; State Management - BLoC, Provider, Riverpod <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data Base - SQlite , Hive, Preference <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cloud - AWS  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Version Control - Git , SVN  <br />
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashiq-kodali&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashiq-kodali&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-kodali&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashiq-kodali&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashiq-kodali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiq-kodali/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashiq-kodali)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12849605/ashiq-kodali)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ashiq_kodali)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@itzmeask)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashiq-kodali&icon=0&color=0)](https://visitcount.itsvg.in)
--
 
+### About Me
 
+I’m a software engineer who enjoys turning real-world business problems into reliable, practical software solutions. My work spans full-stack development with deep specialization in **.NET, C#, Flutter, SQL Server, and RESTful API ecosystems**, primarily serving **ERP, POS, supply chain, and business management operations**.
 
+I focus heavily on understanding how a business actually operates—its day-to-day workflows, edge cases, and transactional requirements—and engineering software that directly addresses those realities. For me, software engineering is not merely about writing code; it is about system design, domain modeling, clean abstractions, and continuously refining how mission-critical systems are built and maintained.
 
+My broader technical interests include **system architecture, cloud infrastructure, CI/CD automation, and applied AI**, expanding my capabilities across distributed and high-throughput systems.
 
+---
 
+### Open Source Contributions & Multi-Language SDKs
+
+I actively design and maintain open-source developer tooling and native language libraries, including the official multi-language rendering engine for **[EazyReport](https://eazyreport.in)**:
+
+| Ecosystem | Package | Registry |
+| :--- | :--- | :--- |
+| **Flutter / Dart** | [`eazyprint`](https://pub.dev/packages/eazyprint) | [pub.dev](https://pub.dev/packages/eazyprint) |
+| **Python** | [`eazyreport`](https://pypi.org/project/eazyreport/) | [PyPI](https://pypi.org/project/eazyreport/) |
+| **.NET / C#** | [`EazyReport`](https://www.nuget.org/packages/EazyReport/) | [NuGet](https://www.nuget.org/packages/EazyReport/) |
+| **Rust** | [`eazyreport`](https://crates.io/crates/eazyreport) | [crates.io](https://crates.io/crates/eazyreport) |
+| **Go** | [`eazyreport-go`](https://pkg.go.dev/github.com/ashiq-kodali/eazyreport-go) | [pkg.go.dev](https://pkg.go.dev/github.com/ashiq-kodali/eazyreport-go) |
+| **Java & Kotlin** | `io.github.ashiq-kodali:eazyreport` | [Maven Central](https://central.sonatype.com/artifact/io.github.ashiq-kodali/eazyreport) |
+| **PHP / Laravel** | [`ashiq-kodali/eazyreport`](https://packagist.org/packages/ashiq-kodali/eazyreport) | [Packagist](https://packagist.org/packages/ashiq-kodali/eazyreport) |
+| **JavaScript / TS** | Template schemas & client integrations | Open Source |
+
+---
+
+### Technical Expertise
+
+#### Core Languages & Frameworks
+- **Languages:** C#, Dart, Python, Go, Rust, Java, Kotlin, SQL (T-SQL), TypeScript / JavaScript
+- **Backend & APIs:** ASP.NET Core, .NET 8/9, Web API, Minimal APIs, FastAPI, MVC
+- **Mobile & Cross-Platform:** Flutter (iOS, Android, Desktop, Web) · BLoC, Riverpod, Provider
+- **Databases & ORMs:** Microsoft SQL Server, PostgreSQL, MySQL, SQLite, Entity Framework Core, Dapper, Supabase, Firebase
+
+#### Architecture & Engineering Practices
+- **Design & Patterns:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern, SOLID
+- **Domain Systems:** ERP Modules, Point of Sale (POS), Inventory & Warehouse Control, Invoicing & Tax Compliance
+- **DevOps & Tooling:** Docker, AWS, GitHub Actions (Automated CI/CD & GPG Signing), Git, Postman / Swagger
+
+---
+
+### GitHub Overview
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashiq-kodali&show_icons=true&theme=default&hide_border=true&title_color=0f172a&icon_color=2563eb&text_color=475569" alt="Ashiq's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-kodali&layout=compact&theme=default&hide_border=true&title_color=0f172a&text_color=475569" alt="Top Languages" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Engineered with precision · Always building, learning, and contributing.</sub>
+</p>
